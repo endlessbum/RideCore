@@ -1,4 +1,4 @@
-# RideCore2
+# RideCore
 
 Small ecommerce demo React + Vite + TypeScript project with Redux and Supabase wiring.
 
